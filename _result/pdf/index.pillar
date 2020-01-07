@@ -1,0 +1,11 @@
+TaskIt is a powerful framework to manage concurrency without being forced to face low-level concurrency
+lack of abstractions....
+
+
+!TaskIt
+
+
+${inputFile:path=Chapters/TaskIt/TaskIt.pillar}$
+
+
+
